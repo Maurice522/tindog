@@ -155,4 +155,7 @@ h1.title-head {
     position: static;
     transform: rotate(0);
   }
+    div.img-box{
+    margin: auto;
+  }
 }
